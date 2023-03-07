@@ -1,0 +1,27 @@
+background_image:
+  path: images/BookAndQuillWide.jpeg
+  opacity: 60
+
+accent: "#80cbc4"
+background: "#1e282d"
+details: lighter
+foreground: "#000000"
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#5555ff"
+    cyan: "#55ffff"
+    green: "#55ff55"
+    magenta: "#ff55ff"
+    red: "#ff5555"
+    white: "#ffffff"
+    yellow: "#ffff55"
+  normal:
+    black: "#000000"
+    blue: "#0000aa"
+    cyan: "#00aaaa"
+    green: "#00aa00"
+    magenta: "#aa00aa"
+    red: "#aa0000"
+    white: "#aaaaaa"
+    yellow: "#ffaa00"
